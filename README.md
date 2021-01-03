@@ -13,3 +13,4 @@
 ## 架构基本常识
 
 * [什么是架构——基础](https://github.com/dumplings/senior-or-architect/issues/2)
+* [什么是架构——复杂度来源](https://github.com/dumplings/senior-or-architect/issues/3)
