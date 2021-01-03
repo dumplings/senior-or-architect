@@ -9,3 +9,7 @@
 ## 好的编程习惯养成
 
 * [数据与逻辑分离](https://github.com/dumplings/senior-or-architect/issues/1)
+
+## 架构基本常识
+
+* [什么是架构——基础](https://github.com/dumplings/senior-or-architect/issues/2)
