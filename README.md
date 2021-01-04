@@ -15,3 +15,4 @@
 * [什么是架构——基础](https://github.com/dumplings/senior-or-architect/issues/2)
 * [什么是架构——复杂度来源](https://github.com/dumplings/senior-or-architect/issues/3)
 * [什么是架构——设计原则与流程](https://github.com/dumplings/senior-or-architect/issues/4)
+* [什么是架构——高性能数据库集群&NoSQL](https://github.com/dumplings/senior-or-architect/issues/5)
