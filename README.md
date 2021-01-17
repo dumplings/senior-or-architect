@@ -20,3 +20,7 @@
 * [什么是架构——单服务器高性能模式](https://github.com/dumplings/senior-or-architect/issues/7)
 * [什么是架构——高性能负载均衡](https://github.com/dumplings/senior-or-architect/issues/8)
 * [什么是架构——CAP定理&&FMEA方法](https://github.com/dumplings/senior-or-architect/issues/9)
+
+## Vue高级用法
+
+* [面试官：Vue要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://mp.weixin.qq.com/s/kku7-HJ1UjOUD29fXf446Q)
