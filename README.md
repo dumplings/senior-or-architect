@@ -2,6 +2,8 @@
 
 高工？还是架构？
 
+> The more similar individual sections of our code are, the less we have to think when switching focus.
+
 ## 关于
 
 这是一个个人总结的收录，关于技术细节和架构方向，由于本人实在难分清楚什么是高级开发工程师，或是架构师的区别，所以起了这么个名字。
