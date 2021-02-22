@@ -30,3 +30,4 @@
 ## 工作场景相关
 
 * [作为前端，我对业务的一点理解](https://cloud.tencent.com/developer/article/1738688)
+* [职业生涯规划几行想法](https://github.com/dumplings/senior-or-architect/issues/10)
