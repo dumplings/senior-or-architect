@@ -8,6 +8,10 @@
 
 这是一个个人总结的收录，关于技术细节和架构方向，由于本人实在难分清楚什么是高级开发工程师，或是架构师的区别，所以起了这么个名字。
 
+## 基础决定上层建筑
+
+* [说说原型（prototype）、原型链和原型继承](https://zhuanlan.zhihu.com/p/35790971)
+
 ## 好的编程习惯养成
 
 * [数据与逻辑分离](https://github.com/dumplings/senior-or-architect/issues/1)
