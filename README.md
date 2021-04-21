@@ -16,6 +16,7 @@
 
 * [数据与逻辑分离](https://github.com/dumplings/senior-or-architect/issues/1)
 * [UNIX哲学](https://github.com/dumplings/senior-or-architect/issues/11)
+* [每个程序员要注意的 9 种反模式](https://cloud.tencent.com/developer/article/1190294)
 
 ## 架构基本常识
 
