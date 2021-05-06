@@ -36,6 +36,7 @@
 ## 工作方法/工具
 
 * [快速学习时序图：时序图简介、画法及实例](http://www.woshipm.com/ucd/607593.html)
+* [前端业务组件库怎么样做到极致？](https://mp.weixin.qq.com/s/SQ3bykEfkuOOF9qB61SKAQ)
 
 ## 工作场景相关
 
