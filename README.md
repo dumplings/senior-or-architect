@@ -38,6 +38,7 @@
 * [快速学习时序图：时序图简介、画法及实例](http://www.woshipm.com/ucd/607593.html)
 * [前端业务组件库怎么样做到极致？](https://mp.weixin.qq.com/s/SQ3bykEfkuOOF9qB61SKAQ)
 * [设计图都不会画，还想做”架构师“？](https://cloud.tencent.com/developer/article/1073501)
+* [看了就会的 Node.js 常用三方工具包](https://mp.weixin.qq.com/s/ALCik37l6wqQI3LJpuAQCQ)
 
 ## 工作场景相关
 
