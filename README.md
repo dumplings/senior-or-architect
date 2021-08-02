@@ -49,3 +49,4 @@
 
 * [Matter.js](https://brm.io/matter-js/)
 * [Box2D](https://box2d.org/)
+* [LayaAirIDE的可视化2D物理使用文档](https://mp.weixin.qq.com/s?__biz=MzAxMjI4NjA1OA==&mid=2650585677&idx=1&sn=01a640d67ab35d64f4452464fbf26884&chksm=83bc3b48b4cbb25e474b096ee46b2f29fb09a876d04653f3bdb3a6b2af0c2922d03e66d7df98&scene=21#wechat_redirect) - 这篇文章讲了一些关于2D基本的概念，有利于熟悉这门技术
